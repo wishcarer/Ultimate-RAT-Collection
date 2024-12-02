@@ -10,6 +10,16 @@
     <img src="https://img.shields.io/badge/Telegram-Download-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
 
+  <p align="center">
+  <a href="https://telegram.me/prowishcarder">
+    <img src="https://img.shields.io/badge/Telegram-Download-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+
+  <p align="center">
+  <a href="https://telegram.me/prowishcarder">
+    <img src="https://img.shields.io/badge/Telegram-Download-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+
 ![Visitor Count](https://profile-counter.glitch.me/wishcarer/count.svg)
 
 <h1 align="center">Password: infected</h1>
